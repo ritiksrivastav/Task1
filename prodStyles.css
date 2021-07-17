@@ -1,0 +1,28 @@
+body{
+    align-items: center;
+    background-color: #ea5455;
+background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+}
+img{
+    width: 500px;
+    height: auto;
+    border-radius: 2%;
+}
+.col-6{
+    text-align: center;
+}
+.d-flex{
+    padding: 20px 20px;
+}
+.main{
+    margin: 50px 50px;
+    background-color: white;
+    border-radius: 2%;
+ border: solid 1px #ea5455;   
+}
+.col-6 h1{
+    font-family: cursive;
+}
+.col-6 p{
+    padding-top: 50px;
+}
