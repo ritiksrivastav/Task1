@@ -1,5 +1,5 @@
-# TASK-1 Product Display in Grid System - THE NAOMI STORE.
-## All the images used are taken from "free" sites that give free stock photos and illustrations to use.
+## TASK-1 Product Display in Grid System - THE NAOMI STORE.
+### All the images used are taken from "free" sites that give free stock photos and illustrations to use.
 #### This is a only front-end based ecommerce site .
 #### Bootstrap classes of Flex are used to display the products in flexbox such that there are only 3 in a row , which is further done by using the bootstrap grid system.
 #### The carousal is also added in the site.
